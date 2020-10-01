@@ -158,4 +158,4 @@ Contributing
 ------------
 
 Contributions to conda are welcome. See the `contributing <CONTRIBUTING.md>`_ documentation
-for instructions on setting up a development environment.
+for instructions on setting up a development environment using Anaconda libraries.
